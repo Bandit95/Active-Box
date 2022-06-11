@@ -82,7 +82,7 @@ p {
     justify-content: center;
     height: 750px;
     padding-top: 100px;
-    background: #31334e url("/img/intro-bg.jpg") center no-repeat;
+    background: #31334e url("../img/intro-bg.jpg") center no-repeat;
 }
 
 .intro__inner {
